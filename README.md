@@ -40,7 +40,7 @@ git checkout -b feature-1
 # 4. Run the HelloWorld.java in your favorite IDE
 ```
 
-Usage Example
+## Usage Example
 
 ### Output Example:
 
