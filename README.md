@@ -18,6 +18,7 @@ This project features a simple “Hello, World!” program that was later enhanc
 The initial version prints “Hello, World!”, and I modified it in another feature branch to give a personalized greeting to the user and to trigger a merge conflict:
 
 feature-1 => Hello, World!
+
 feature-2 => Hi! Benign John
 
 
