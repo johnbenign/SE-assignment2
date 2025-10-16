@@ -4,6 +4,6 @@ public class HelloWorld {
         System.out.println("Hello, World!");
 
         // Print a personalized greeting
-        System.out.println("Hi! Benign John");
+        System.out.println("Hi! Benign Ihugba");
     }
 }
