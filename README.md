@@ -19,7 +19,7 @@ The initial version prints “Hello, World!”, and I modified it in another fea
 
 feature-1 => Hello, World!
 
-feature-2 => Hi! Benign John
+feature-2 => Hello! Benign John
 
 
 ---
@@ -47,7 +47,7 @@ git checkout -b feature-1
 
 => Hello, World!
 
-=> Hi! Benign John
+=> Hello! Benign John
 
 ### Program Description:
 
