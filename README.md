@@ -46,7 +46,8 @@ git checkout -b feature-1
 ### Output Example:
 
 Hello, World!
-Hi! Benign
+
+Hi! Benign John
 
 ### Program Description:
 
